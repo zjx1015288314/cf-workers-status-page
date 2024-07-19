@@ -37,3 +37,8 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+  - id: blog-aihi-uk
+    name: The Aihi Blog
+    url: 'https://blog.aihi.uk/'
+    method: GET
+    expectStatus: 200
